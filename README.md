@@ -1,0 +1,2 @@
+# ojs
+Revista Realidad Económica
